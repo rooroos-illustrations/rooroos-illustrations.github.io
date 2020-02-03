@@ -1,0 +1,34 @@
+
+/*Global Varibales */
+$ink: #250058;
+$hanwrite: 'Caveat Brush', cursive;
+$bodyf: 'Nunito', sans-serif;
+
+html, body {
+  margin:  0;
+  height: 100%;
+}
+
+h1 {
+	font-family: $hanwrite;
+	font-size: 20vw;
+	text{
+	}
+	color: $ink	;
+}
+
+h2 {
+	font-family: $hanwrite;
+	color: $ink;
+}
+
+
+h3 {
+	font-family: $bodyf;
+	font-weight: 600;
+	color: $ink;
+}
+p {
+	font-family: $bodyf;
+	font-size: 2vw;
+}
