@@ -111,7 +111,7 @@
 						complete: function(){
 							//console.log('call1');
 							imglink();
-							topanim1();
+							//topanim1();
 						}
 					})
 					;
