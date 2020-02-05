@@ -164,7 +164,6 @@ div.slide img{
 	height: 100%;
 	margin: 0% 0.05%;
 	pointer-events: none;
-	user-drag: none;
 	user-select: none;
 	-moz-user-select: none;
 	-webkit-user-drag: none;
