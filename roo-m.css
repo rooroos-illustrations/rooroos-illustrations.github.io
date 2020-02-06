@@ -5,6 +5,12 @@ html, body {
 	overflow-x: hidden;
 }
 
+a {
+	color:#250058;
+	text-decoration: none;
+	cursor: pointer;
+}
+
 hr {
 	border: 1px solid #250058;
 	width: 30%;

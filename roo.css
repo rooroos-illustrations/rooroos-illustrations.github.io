@@ -4,6 +4,13 @@ html, body {
   height: 100%;
 	overflow-x: hidden;
 }
+a {
+	color:#250058;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
 hr {
 	border: 1px solid #250058;
 	width: 30%;
@@ -181,9 +188,27 @@ div.inslide p {
 .inslide hr {
 	margin: auto;
 
+}
+/*
+div.categ {
+	display: inline-block;
+	background-color: white;
+	height: 98%;
+	width: 5em;
+	overflow: hidden;
+	vertical-align: top;
+
 
 }
+div.categ h3 {
+	color: #250058;
+	font-size: 2.5em;
+	line-height: 1em;
+	margin: 20% 30%;
+	text-align: center;
 
+}
+*/
 /* horizonntal scrollbar override*/
 .slide::-webkit-scrollbar {
     -webkit-appearance: none;
